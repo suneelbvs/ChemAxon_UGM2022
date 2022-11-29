@@ -22,4 +22,4 @@ Please refer the below links to understand the integration of #KnimeInJupyter an
 
 or you can install the required packages using pip
 
-I. pip install knime pandas matplotlib
+2. pip install knime pandas matplotlib
