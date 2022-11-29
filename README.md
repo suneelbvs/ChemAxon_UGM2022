@@ -6,8 +6,7 @@
 ## This repo contains the knime workflows, and jupyter notebooks that used for demonstration during #ChemAxon #UGM2022
 
 My workflows majorly inspired by this knime blogpost:
-
-![image](https://user-images.githubusercontent.com/334679/204505055-27a0eb21-116f-48dc-abb0-30a6db1633c0.png)
+![image](https://user-images.githubusercontent.com/334679/204550588-fb400922-1db2-47df-b8b5-14d840a7b31e.png)
 
 Please refer the below links to understand the integration of #KnimeInJupyter and #JupyterInKnime
 1. [Download the Run Jupyter in KNIME and Run KNIME in Jupyter workflows from the KNIME Hub](https://hub.knime.com/mpattadkal/spaces/Public/latest/Jupyter%20Webinar/)
