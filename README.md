@@ -18,7 +18,8 @@ Please refer the below links to understand the integration of #KnimeInJupyter an
 
 ## Installation Steps:
 
+1. conda env create -f caxon.yml
 
+or you can install the required packages using pip
 
-
-
+I. pip install knime pandas matplotlib
