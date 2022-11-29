@@ -3,9 +3,9 @@
 ## Do you want integrate Chemaxon Knime nodes in Jupyter Notebook?
 ![image](https://user-images.githubusercontent.com/334679/204505001-bc6a51e8-6773-4cb2-8641-ece5ba5682b5.png)
 
-### This repo contains the knime workflows, and jupyter notebooks that used for demonstration during #ChemAxon #UGM2022
+#### This repo contains the knime workflows, and jupyter notebooks that used for demonstration during #ChemAxon #UGM2022
 
-### License: Need valid license for ChemAxon nodes (Desktop & knime nodes)
+#### License: Please note that, we need valid license for ChemAxon nodes (Desktop & knime nodes)
 
 ![image](https://user-images.githubusercontent.com/334679/204550588-fb400922-1db2-47df-b8b5-14d840a7b31e.png)
 
